@@ -1,0 +1,3 @@
+/Users/sai/CLionProjects/dealership_classes/cmake-build-debug/CMakeFiles/dealership_classes.dir
+/Users/sai/CLionProjects/dealership_classes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sai/CLionProjects/dealership_classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

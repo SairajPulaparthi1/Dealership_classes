@@ -1,0 +1,6 @@
+# ninja log v6
+2	762	1727974947678729708	CMakeFiles/dealership_classes.dir/Vehicle.cpp.o	43a5f7e88879bf9f
+1	843	1727974947677536083	CMakeFiles/dealership_classes.dir/main.cpp.o	105dcebfd9f5ae9d
+2	844	1727974947678960249	CMakeFiles/dealership_classes.dir/Showroom.cpp.o	fdbc3cf8906c1201
+3	855	1727974947679144041	CMakeFiles/dealership_classes.dir/Dealership.cpp.o	323c89cc7fa72781
+855	1003	1727974948531980612	dealership_classes	35fafd7e5e7939c3
